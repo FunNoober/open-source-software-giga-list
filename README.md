@@ -106,6 +106,14 @@ Software that is intended to either edit audio, create audio, or both.
 ## Notepadqq
 [Notepadqq](https://github.com/notepadqq/notepadqq)
 
+# Note Taking/Productivity
+## Joplin
+[Joplin](https://joplinapp.org/)
+## CherryTree
+[CherryTree](https://www.giuspen.net/cherrytree/)
+## Visual Studio Code
+[VSCode](https://code.visualstudio.com/)
+
 # Misc
 ## CKB-Next
 [CKBNext](https://github.com/ckb-next/ckb-next)
