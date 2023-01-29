@@ -44,24 +44,31 @@ While intended to be an animation tool, it supports single framed animation and 
 
 # Video Editors
 ## Kdenlive
+A proffesional grade open source editing solution. The user interface has not recieved a major overhaul in years, however, it can still compete with proffesional solutions. \
 [Kdenlive](https://kdenlive.org/)
 ## Shotcut
+A more personal grade open source editing solution. Has less advanced features than Kdenlive although it is easier to use and has more built in features.\
 [Shotcut](https://www.shotcut.org/)
 ## Olive
+An early-beta open source editing solution similar to Apple's FinalCut Pro. Limited feature set so far but very polished. I recommend waiting for future releases before trying to use in proffesional projects \
 [Olive](https://www.olivevideoeditor.org/)
 ## Blender
+A GPU accelerated video editor. The Blender Video Editor does not have any fancy features but does have basic filters and close intergration with Blender 3D and Blender VFX. \
 [Blender](https://www.blender.org/)
 
 # Visual Effects (VFX)
 Software that is intended to do visual compositing, and/or motion tracking, and/or animations.
 ## Natron
+A node based VFX editor. \
 [Natron](https://natrongithub.github.io/)
 ## Blender
+An Adobe After Effects style VFX editor with many advanced features such as motion tracking and supports close intergration with Blender 3D and the Blender Video Editor. \
 [Blender](https://www.blender.org/)
 
 # 3D Software
 Software that is intended to create 3D models and/or render those models in a scene.
 ## Blender
+A large 3D suite that has just about every tool a 3D artist could need. Supports sculpting, modelling, texture painting, material editing, rigging, and animation. \
 [Blender](https://www.blender.org/)
 ## Blockbench
 [Blockbench](https://www.blockbench.net/)
@@ -78,8 +85,10 @@ Software that is intended to create textures for 3D assets.
 # Digital Audio Workstations
 Software that is intended to either edit audio, create audio, or both.
 ## Audacity
+A proffesional Audio editing software with many baked in features and an easy to use interface. \
 [Audacity](https://www.audacityteam.org/)
 ## LMMS
+A limited music creation software but comes with many filters and supports for VSTs. \
 [LMMS](https://lmms.io/)
 ## Ardour
 [Ardour](https://ardour.org/)
@@ -116,14 +125,40 @@ Software that is intended to either edit audio, create audio, or both.
 
 # Misc
 ## CKB-Next
+A software for Linux that allows the user to customize the RGB and keybindings for Corsair accessories. \
 [CKBNext](https://github.com/ckb-next/ckb-next)
 ## Libre Office
 [LibreOffice](https://www.libreoffice.org/)
 ## Nextcloud
+An open source cloud service that can be self hosted or used from a provider. Simple to setup on Linux machines but requires some networking knowledge to access the server outside your network if you choose to self host. \
 [Nextcloud](https://nextcloud.com/)
 ## Upscayl
+An user-friendly way to upscale images using AI. \
 [Upscayl](https://upscayl.github.io/)
 ## Godot
+A beginner friendly 2D and 3D game engine with many industry standard feature sets and UI components. \
 [Godot](https://godotengine.org/)
 ## OBS
+A commercial grade screen and audio capture software with support for streaming, recording, and replays. \
 [OBS](https://obsproject.com/)
+## Syncthing
+A peer-to-peer file synchronization solution. Can be pretty tricky to setup and use especially when multiple devices are involved but is a good solution for transfering files to a phone from a computer and vice versa.
+[Syncthing](https://syncthing.net/)
+## Lorien
+An infinite whiteboard software made with Godot.
+[Lorien](https://github.com/mbrlabs/Lorien)
+
+# Non-Tested Software
+Software that I have not personally tried myself but have found on open source software lists and https://alternativeto.net.
+## Git
+[Git](https://git-scm.com/)
+## Xournal++
+[Xournal++](https://github.com/xournalpp/xournalpp)
+## Thunderbird
+[Thunderbird](https://www.thunderbird.net/en-US/)
+## Filezilla
+[Filezilla](https://filezilla-project.org/)
+## FreeCad
+[FreeCAD](https://www.freecad.org/)
+## ClamAV
+[ClamAV](https://www.clamav.net/)
