@@ -72,8 +72,6 @@ A large 3D suite that has just about every tool a 3D artist could need. Supports
 [Blender](https://www.blender.org/)
 ## Blockbench
 [Blockbench](https://www.blockbench.net/)
-## Dust3D
-[Dust3D](https://dust3d.org/)
 
 # Texture Creation Software
 Software that is intended to create textures for 3D assets.
@@ -90,8 +88,6 @@ A proffesional Audio editing software with many baked in features and an easy to
 ## LMMS
 A limited music creation software but comes with many filters and supports for VSTs. \
 [LMMS](https://lmms.io/)
-## Ardour
-[Ardour](https://ardour.org/)
 
 # Synthesizers (Synths)
 ## Helm
@@ -101,15 +97,15 @@ A limited music creation software but comes with many filters and supports for V
 
 # Media Players
 ## VLC
+One of the most well-known media playing software. Advanced features and an easy to use interface. \
 [VLC](https://www.videolan.org/vlc/)
 ## MPV
+A simplistic media player with little features but works well on low-end hardware. \
 [MPV](https://mpv.io/)
 
 # Text Editors/IDEs
 ## Visual Studio Code
 [VSCode](https://code.visualstudio.com/)
-## Code::Blocks
-[CodeBlocks](https://www.codeblocks.org/)
 ## Notepad++
 [Notepad++](https://notepad-plus-plus.org/)
 ## Notepadqq
@@ -117,11 +113,17 @@ A limited music creation software but comes with many filters and supports for V
 
 # Note Taking/Productivity
 ## Joplin
+A note taking app that organizes your notes into "notebooks" and "pages".
 [Joplin](https://joplinapp.org/)
 ## CherryTree
+A note taking app that uses a tree-branch system to organize notes. \
 [CherryTree](https://www.giuspen.net/cherrytree/)
 ## Visual Studio Code
+Text editor with syntax highlighting. \
 [VSCode](https://code.visualstudio.com/)
+## Focalboard
+Open source alternative to commercial grade software like Asana and Trello. \
+[Focalboard](https://www.focalboard.com/)
 
 # Misc
 ## CKB-Next
@@ -142,23 +144,41 @@ A beginner friendly 2D and 3D game engine with many industry standard feature se
 A commercial grade screen and audio capture software with support for streaming, recording, and replays. \
 [OBS](https://obsproject.com/)
 ## Syncthing
-A peer-to-peer file synchronization solution. Can be pretty tricky to setup and use especially when multiple devices are involved but is a good solution for transfering files to a phone from a computer and vice versa.
+A peer-to-peer file synchronization solution. Can be pretty tricky to setup and use especially when multiple devices are involved but is a good solution for transfering files to a phone from a computer and vice versa. \
 [Syncthing](https://syncthing.net/)
 ## Lorien
-An infinite whiteboard software made with Godot.
+An infinite whiteboard software made with Godot. \
 [Lorien](https://github.com/mbrlabs/Lorien)
+## Dia
+Downloadable diagram creator and editor.
+[Dia](https://wiki.gnome.org/Apps/Dia/)
 
 # Non-Tested Software
 Software that I have not personally tried myself but have found on open source software lists and https://alternativeto.net.
 ## Git
+Source control management solution. \
 [Git](https://git-scm.com/)
 ## Xournal++
+Use your mouse or drawing tablet to make hand-written notes. \
 [Xournal++](https://github.com/xournalpp/xournalpp)
 ## Thunderbird
+Open source email client. \
 [Thunderbird](https://www.thunderbird.net/en-US/)
 ## Filezilla
+Self hosted FTP server solution. \
 [Filezilla](https://filezilla-project.org/)
 ## FreeCad
+Open source computer-assisted-design software. \
 [FreeCAD](https://www.freecad.org/)
 ## ClamAV
+Antivirus \
 [ClamAV](https://www.clamav.net/)
+## Code::Blocks
+Outdated IDE primarily used by C++ developers. \
+[CodeBlocks](https://www.codeblocks.org/)
+## Dust3D
+Simplistic, low-poly 3d modelling solution.
+[Dust3D](https://dust3d.org/)
+## Ardour
+Advanced DAW that includes music production and audio editing features.
+[Ardour](https://ardour.org/)
