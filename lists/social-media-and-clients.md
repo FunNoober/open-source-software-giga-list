@@ -1,0 +1,11 @@
+# Overview:
+- Odysee (Controversial)
+- PeerTube
+- Mastodon
+- Pixelfed
+- Invidious (YouTube Client)
+- Piped (YouTube Client)
+- NewPipe (YouTube Client, Android)
+- Nitter (Twitter Client)
+- Fritter (Twitter Client, Android)
+- ProxiTok (TikTok Client)

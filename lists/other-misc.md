@@ -1,0 +1,15 @@
+# Overview:
+- CKB-Next
+- Libre Office
+- Nextcloud
+- Upscayl
+- Godot
+- OBS
+- Syncthing
+- Lorien
+- Dia
+- Git
+- Thunderbird
+- Filezilla
+- ClamAV
+- UBlockOrigin
